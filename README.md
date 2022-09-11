@@ -18,7 +18,7 @@ Tags: Owner, State, Purpose
 
 ## Create Azure Synapse Analytics (<15 min)
 
-### Basic
+  ### Basic
 Managed resource group: optional (for aux resources)
 Name: dis-chicago-synapse
 region: <same as above?>
@@ -30,7 +30,7 @@ File System Name: (new) data
 
 Check "Assign myself the Storage Blob Data Contributor role on the Data Lake Storage Gen2 account to interactively query it in the workspace."
 
-### Security
+  ### Security
 
 Select: "Use both local and Azure Active Directory (Azure AD) authentication"
 
@@ -39,7 +39,7 @@ SQL Password: <select fitting password>
 
 All other options: leave as is
 
-### Networking
+  ### Networking
 
 Check: "Allow connections from all IP addresses"
 
