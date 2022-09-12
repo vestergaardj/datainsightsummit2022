@@ -1,4 +1,5 @@
 ## Connect Azure Synapse Analytics to Power BI
+¤¤¤¤ Make sure you publish the data set before proceeding
 
 Click *Manage* in Synapse Studio
 
