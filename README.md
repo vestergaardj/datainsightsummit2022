@@ -12,39 +12,43 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code
 
 # Demo
 ## Create Resource Group (< 1 min)
-Name: chicago_demo
-Region: optional
-Tags: Owner, State, Purpose
+
+[Create Resource Group](./1-ResourceGroup.md)
 
 ## Create Azure Synapse Analytics (<15 min)
 
-*Basic*
-Managed resource group: optional (for aux resources)
-Name: dis-chicago-synapse
-region: <same as above?>
+[Create Azure Synapse Analytics](./2-AzureSynapseAnalytics.md)
 
-Select Data Lake Storage Gen2: From Subscription
-Account: (new) chicagodemosa
+## Create you first Serverless Pool Table
 
-File System Name: (new) data
+[Create Serverless Pool](./3-ServerlessPool.md)
 
-Check "Assign myself the Storage Blob Data Contributor role on the Data Lake Storage Gen2 account to interactively query it in the workspace."
+## Create you first Azure Data Factory ( < 5 min )
 
-*Security*
+[Create Azure Data Factory](./4-AzureDataFactory.md)
 
-Select: "Use both local and Azure Active Directory (Azure AD) authentication"
+## Create your first Data Flow ( < 10 min ) (Enriched)
 
-SQL Server Admin login: sqladminuser
-SQL Password: <select fitting password>
+[Create your first data flow](./5-FirstDataFLow_enriched.md)
 
-All other options: leave as is
+## Create your first pipeline
 
-*Networking*
+[Create your first pipeline](./6-FirstPipeline.md)
 
-Check: "Allow connections from all IP addresses"
+## Create a sample Power BI report
 
-All other options: leave as is
+[Create your first Power BI report](./7-PowerBI_enriched.md)
 
-### Tags
-Tags: Owner, State, Purpose
+## Create a data flow to curate the data
 
+[Create Data Flow for curated data](./8-DataFlow_curated.md)
+
+## Create your curated pipeline
+
+[Create Pipeline for curated data flow](./9-Pipeline_curated.md)
+
+## Create Power BI for curated data
+
+
+
+## Enhance data from other sources (Excercise)
