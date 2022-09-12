@@ -59,4 +59,16 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code
 
 [Create Report](./12-CreateAPowerBIReportInSynapseStudio.md)
 
+## Play with read partitions if time permits
+
+[Configure read partitioning strategi](./13-PartitioningRead.md)
+
+## Play with write partitions if time permits
+
+[Configure write partitioning strategi](./14-PartitioningWrite.md)
+
 ## Enhance data from other sources (Excercise)
+
+## Link pipelines (Excercise)
+
+## Dive into 
