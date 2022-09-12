@@ -49,6 +49,6 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code
 
 ## Create Power BI for curated data
 
-
+[Create Power BI report for curated](./10-PowerBI_curated.md)
 
 ## Enhance data from other sources (Excercise)
