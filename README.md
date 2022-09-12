@@ -51,4 +51,12 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code
 
 [Create Power BI report for curated](./10-PowerBI_curated.md)
 
+## Connect Azure Synapse Analytics to Power BI
+
+[Connect To Power BI](./11-ConnectToPowerBI.md)
+
+## Create a Power BI report in Synapse Studio
+
+[Create Report](./12-CreateAPowerBIReportInSynapseStudio.md)
+
 ## Enhance data from other sources (Excercise)
